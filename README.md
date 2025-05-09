@@ -48,6 +48,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     <tbody>
         <tr>
         <td align="center">
+                <a href="https://github.com/hussain-jawaid/">
+                    <img src="https://avatars.githubusercontent.com/u/168823785?v=4" width="100px;"
+                    alt="Hussain Jawaid" />
+                <br />
+                <sub>
+                    <b>Hussain Jawaid</b>
+                </sub>
+            </a>
+        </td>
+        <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
                         alt="Ali Solanki" />
